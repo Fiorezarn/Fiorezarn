@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif](https://giphy.com/gifs/marvel-guardians-of-the-galaxy-2-3o7budMRwZvNGJ3pyE)" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/fiorezarn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
