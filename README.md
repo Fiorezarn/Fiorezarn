@@ -1,15 +1,14 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif](https://giphy.com/gifs/marvel-guardians-of-the-galaxy-2-3o7budMRwZvNGJ3pyE)" width="100"/>
   <div id="badges">
+    <h1>
+  Hello Everyone, My name is Fioreza Radhin Naufal
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <a href="https://www.linkedin.com/in/fiorezarn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
      <img src="https://komarev.com/ghpvc/?username=Fiorezarn&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hello Everyone, My name is Fioreza Radhin Naufal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 
